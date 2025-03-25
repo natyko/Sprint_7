@@ -1,0 +1,6 @@
+pytest==7.4.0
+requests==2.32.0
+allure-pytest==2.13.2
+namedlist==1.8
+importlib-metadata==6.8.0
+allure-python-commons~=2.13.2
